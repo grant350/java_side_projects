@@ -1,11 +1,11 @@
-package server;
+package core;
 import org.joda.time.LocalTime;
 import org.json.simple.JSONObject;
 
 public class App {
 
 
-  public void main(String[] args){
+  public static void main(String[] args){
     // call class to start up server
     LocalTime currentTime = new LocalTime();
     JSONObject jsonObject = new JSONObject();
