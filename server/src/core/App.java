@@ -14,6 +14,8 @@ constructor variables
 > obj // jsonstring of obj
 > java obj
 
+
+remove()
 createFromText
 main() makes empty {};
 
